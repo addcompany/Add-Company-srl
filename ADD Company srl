@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ADD Company SRL - Nettoyage & Démolition</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; text-align: center; background-color: #f4f4f4; }
+        header { background: #007BFF; color: white; padding: 20px; }
+        section { padding: 50px 20px; }
+        .contact-info { background: #333; color: white; padding: 20px; }
+        .contact-info a { color: #FFD700; text-decoration: none; }
+        .btn { background: #007BFF; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>ADD Company SRL</h1>
+        <p>Société de Nettoyage & Démolition</p>
+    </header>
+    
+    <section>
+        <h2>Nos Services</h2>
+        <p>Nous offrons des services de nettoyage après travaux et de démolition contrôlée avec professionnalisme.</p>
+    </section>
+    
+    <section>
+        <h2>Pourquoi Nous Choisir ?</h2>
+        <p>✔ Rapidité & Efficacité<br>✔ Service de Qualité<br>✔ Intervention en Belgique</p>
+    </section>
+    
+    <section class="contact-info">
+        <h2>Contactez-nous</h2>
+        <p>📍 Guldenschaapstraat 6, 1800 Vilvoorde</p>
+        <p>📞 <a href="tel:+32492753796">+32 492 75 37 96</a></p>
+        <p>📧 <a href="mailto:addcompanysrl@gmail.com">addcompanysrl@gmail.com</a></p>
+        <a class="btn" href="mailto:addcompanysrl@gmail.com">Demander un Devis</a>
+    </section>
+</body>
+</html>
